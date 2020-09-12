@@ -16,5 +16,5 @@ Los criterios de aceptacion se basaran en el diseño UI.
 - __[Vue-router](https://router.vuejs.org/en/)__ as router
 - __[Vuex](https://vuex.vuejs.org/en/intro.html)__ as State Store
 
-# PARTICIPANTES
+# Participantes
 
